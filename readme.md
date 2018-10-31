@@ -4,6 +4,7 @@
 <a href="https://packagist.org/packages/laravel/telescope"><img src="https://poser.pugx.org/laravel/telescope/d/total.svg" alt="Total Downloads"></a>
 <a href="https://packagist.org/packages/laravel/telescope"><img src="https://poser.pugx.org/laravel/telescope/v/stable.svg" alt="Latest Stable Version"></a>
 <a href="https://packagist.org/packages/laravel/telescope"><img src="https://poser.pugx.org/laravel/telescope/license.svg" alt="License"></a>
+ ![depshield](https://ci.dev.depshield.sonatype.org/badges/depshield-ci/telescope/depshield.svg)
 </p>
 
 ## Introduction
